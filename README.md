@@ -1,4 +1,4 @@
-# Week 5 — Casino de Gouden Driehoek: spelersprofielen en unieke spellen
+# Week 5: Casino de Gouden Driehoek: spelersprofielen en unieke spellen
 
 [//]: # (TODO: herschrijven)
 [//]: # (Wat weg mag uit main: check_age, calculate_Age, determine_salutation, show_account)
